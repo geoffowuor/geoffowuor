@@ -28,7 +28,6 @@
 
 <br>
 
-[![Jeff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geoffowuor&bg_color=transparent&color=2fa4e7&line=2fa4e7&point=2fa4e7&area=true&hide_border=true)](https://github.com/geoffowuor/github-readme-activity-graph)
 
 <br>
 
