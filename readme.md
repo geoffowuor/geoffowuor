@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018ef7c7-c122-490b-9a4e-71dfd3807683.svg)](https://wakatime.com/@018ef7c7-c122-490b-9a4e-71dfd3807683) ![](https://visitor-badge.laobi.icu/badge?page_id=geoffowuor.geoffowuor) [![Github](https://img.shields.io/github/followers/geoffowuor?label=Followers&logo=Github)](https://github.com/geoffowuor)
+![](https://visitor-badge.laobi.icu/badge?page_id=geoffowuor.geoffowuor) [![Github](https://img.shields.io/github/followers/geoffowuor?label=Followers&logo=Github)](https://github.com/geoffowuor)
 
 
 # About Me:
