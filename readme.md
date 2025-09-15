@@ -2,7 +2,7 @@
 
 
 # About Me:
-- Software Dev ( Python\Javascript)<br>
+- Software Dev ( Python\C)<br>
 - Full Stack Dev (Django\React \ Express.js)<br>
 - Project Manager
 
