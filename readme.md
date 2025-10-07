@@ -2,12 +2,7 @@
 
 
 # About Me:
-- Software Dev ( Python|C)<br>
-- Full Stack Dev (Django\React \ Express.js)<br>
+- Software Engineer( Python, C)<br>
+- Full Stack Dev (Django, React, Express.js)<br>
 - Project Manager
-
-
-## Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geoffowuor) 
-
 
