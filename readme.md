@@ -2,7 +2,7 @@
 
 
 # About Me:
-- Software Engineer( Python, C)<br>
-- Full Stack Dev (Django, React, Express.js)<br>
+- Software Engineer<br>
+- Backend (Django, Nest.js)<br>
 - Project Manager
 
