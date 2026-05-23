@@ -2,7 +2,7 @@
 
 
 # About Me:
-- Software Engineer<br>
+- Software Engineer(Python, Go)<br>
 - Backend (Django, Nest.js)<br>
-- Project Manager
+- Technical Project Manager
 
